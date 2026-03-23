@@ -1,7 +1,5 @@
 # 🌐 Redes para Desarrolladores: Routers, Switches y Hubs
 
-Una guía rápida y visual para entender cómo viajan los datos entre tus aplicaciones, servidores e internet.
-
 ---
 
 ## 🧩 1. ¿Qué es cada dispositivo?
