@@ -87,3 +87,7 @@ Todo este hardware físico existe en la nube, pero de forma virtualizada:
 * **Router** ➔ Gateways (Internet Gateways, NAT Gateways).
 * **Switch** ➔ Redes internas privadas o VPC (Virtual Private Cloud).
 * **Load Balancer** ➔ Servicios gestionados (como AWS ALB).
+
+| 📊 Version Slides (PPT) |
+|------------------------|
+| https://gamma.app/docs/Router-Switch-y-Hub-Guia-Definitiva-para-Desarrolladores-uo1klw6jj7th236 |
